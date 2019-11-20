@@ -1,0 +1,18 @@
+{
+  "npmScope": "routerrefresh",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "routerrefresh-e2e": {
+      "tags": []
+    },
+    "routerrefresh": {
+      "tags": []
+    }
+  }
+}

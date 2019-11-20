@@ -1,0 +1,7 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-selector": [true, "attribute", "routerrefresh", "camelCase"],
+    "component-selector": [true, "element", "routerrefresh", "kebab-case"]
+  }
+}
