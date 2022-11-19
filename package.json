@@ -54,7 +54,7 @@
     "prettier": "1.18.2",
     "@angular/compiler-cli": "^8.2.0",
     "@angular/language-service": "^8.2.0",
-    "@angular-devkit/build-angular": "^0.803.14",
+    "@angular-devkit/build-angular": "^15.0.0",
     "codelyzer": "~5.0.1",
     "jest-preset-angular": "7.0.0",
     "@nrwl/jest": "8.8.0",
